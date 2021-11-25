@@ -1,0 +1,96 @@
+<html lang="es"><head>
+  <meta charset="utf-8">
+  <title>ejercicios d elistas
+  </title>
+</head>
+
+<body>
+    <h3>Ejercicio 1</h3>
+    <p><strong>Busque la lista de atributos admitidos para la etiqueta <em>área</em></strong></p>
+    <p>Los atributos admitidos para el elemento <em>área</em> son:</p>
+    <ol type="1">
+        <li>Alt</li>
+        <li>Shape</li>
+        <li>Coords</li>
+        <li>Href</li>
+        <li>Target</li>
+        <li>Dowload</li>
+        <li>Ping</li>
+        <li>Rel</li>
+        <li>Referrerpolicy</li>
+        <li>Hreflang</li>
+        <li>Type</li>
+        <li>Nohref</li>
+    </ol>
+    <h3>Ejercicio 2</h3>
+        <p><strong>Indica para que sirven estas etiquetas: <em>details, mark, summary, hr</em>. Pon ejemplos.</strong></p>
+        <p><em>details</em>:sirve para especificar ilustraciones, diagramas, fotos, imágenes o fragmentos de código dentro de la información que se ofrece en la página. Este contenido especificado puede ser independiente en cuanto a posición en la web pero relacionado con la información principal mostrada.</p>
+        <p><em>Mark</em>:  representa un texto marcado o resaltado como referencia o anotación, debido a su relevancia o importancia en un contexto particular.</p>
+        <p><em>Summary</em>: representa un resumen, título o etiqueta para los contenidos de un elemento details <em>details</em></p>
+        <p><em>Hr</em>:representa un cambio de tema entre párrafos (por ejemplo, un cambio de escena en una historia, un cambio de tema en una sección). </p>
+        <h3>Ejercicio 3</h3>
+        <p><strong>Crea un documento que incluya:</strong></p>
+        <p>1 Una lista ordenada de momumentos de Córdoba</p> 
+        <ol type="1">
+            <li>La Mezquita</li>
+            <li>Medina azhara</li>
+            <li>Las caballerizas reales</li>
+            <li>Plaza las Tendillas</li>
+            <li>Plaza de la Corredera</li>
+            <li>Puente romano
+            </li>
+        </ol>
+        <p>2 La lista anterior empezando en el número 11</p>
+        <ol type="1" start="11">
+            <li>La Mezquita</li>
+            <li>Medina azhara</li>
+            <li>Las caballerizas reales</li>
+            <li>Plaza las Tendillas</li>
+            <li>Plaza de la Corredera</li>
+            <li>Puente romano
+            </li>
+        </ol>
+        <p>3 La lista anterior invertida</p>
+        <ol type="1" reversed="">
+            <li>La Mezquita</li>
+            <li>Medina azhara</li>
+            <li>Las caballerizas reales</li>
+            <li>Plaza las Tendillas</li>
+            <li>Plaza de la Corredera</li>
+            <li>Puente romano
+            </li>
+        </ol>
+        <p>4 La lista anterior con el título: "Lista de monumentos"</p>
+        <ol type="1">
+            <dl>"Lista de momumentos"</dl>
+            <li>La Mezquita</li>
+            <li>Medina azhara</li>
+            <li>Las caballerizas reales</li>
+            <li>Plaza las Tendillas</li>
+            <li>Plaza de la Corredera</li>
+            <li>Puente romano
+            </li>
+        </ol>
+        <h2>Ejercicio 4</h2>
+        <header><h1>Brad Abc's Blog</h1></header>
+        <main>    
+            <ul type="A">
+                <li><a href="#ces">CES 2018</a></li>
+                <li><a href="#vegan">Being Vegan</a></li>
+                <li><a href="#html5">HTML5</a></li>
+            </ul>
+            <h2 id="ces">CES 2018</h2>
+            <h3>Consumer electronics and consumer technology tradeshow</h3>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis convallis nec risus id tempus. Sed ultricies ante a gravida posuere. Quisque sapien tortorornare in sagittis vel, commodo in arcu.</p>
+            <p>Written by guest author Nicholas Abc. Read Nichola's blog here</p>
+            <h2 id="vegan">Being Vegan</h2>
+            <h3>My cooking tips for new vegans</h3>
+            <p>Morbi nec felis erat. Vestibulum nec turpis quis mi venenatis rhoncus. Nulla fringilla, nulla eu pharetra egestas, tortor nulla aliquet ipsum, mattis bibendum diam magna tincidunt nisi. Aenean gravida sodales enim.</p>
+            <p>Writtern by Brad Abc. Read my other healt articles here.</p>
+            <h2 id="html5">HTML5</h2>
+            <h3>A summaty of HTML5 differences from HTML4</h3>
+            <p>Mauris sollicitudin leo sollicitudin velit laoreet rutrum. Quisque ex magna, gravida id tempor sed, dictum ac arcu. Nunc eleifend arcu nec viverra porttitor. Duis vel neque quis orci vulputate pretium aliquet eu eros.</p>
+            <p>Written by Bran Abc, HTML5 developer. Read my other tecnical articles here.</p>
+        </main>
+
+</body></html>
