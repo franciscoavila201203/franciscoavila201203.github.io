@@ -1,0 +1,5 @@
+1:
+La primera de estas es una etiqueta que muestra el texto que contiene si pasamos el cursor por encima de la imagen. Y la segunda, la etiqueta ALT de las imágenes solo muestra información en caso de que la imagen no se cargue.
+2:
+map:la etiqueta MAP que define las áreas de cada enlace. Para indicar un texto que se mostrará cuando situemos el ratón en el área. Indica el tipo de área. Las coordenadas que definen el área.
+area:El elemento area define una sección en un mapa de imagen. Los mapas de imagen permiten a los autores definir secciones en una imagen y, opcionalmente, convertirlas en hipervínculos que apuntan a otros recursos.

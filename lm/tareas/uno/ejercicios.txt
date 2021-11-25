@@ -1,0 +1,9 @@
+4
+El elemento abbr representa a un término abreviado o acrónimo, posiblemente explicado a través del atributo title. Si el atributo title está presente, debe proveer la versión expandida de la abreviación.
+5
+La etiqueta <header> se usa para diseñar el encabezado del sitio web como esa etiqueta que podemos usar: logotipos, navegación, botones, etc.
+La etiqueta <h1> se usa para definir el encabezado de un párrafo o contenido.
+6
+8
+las etiquetas de estilo son las <i>, <b>
+y las semanticas <strong>,<em>
